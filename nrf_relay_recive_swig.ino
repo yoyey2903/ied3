@@ -1,5 +1,4 @@
 // Load up the libraries
-#include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
 int i=0, j=0;
